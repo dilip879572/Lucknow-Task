@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dilip",
+      "email": "d@gmail.com",
+      "function": "Developer",
+      "password": "12345"
+    },
+    {
+      "name": "raju kumar",
+      "email": "r@gmail.com",
+      "fun": "developer",
+      "password": "12",
+      "date": "2023/2/2",
+      "id": 2
+    },
+    {
+      "name": "ravi kumar",
+      "email": "r@gmail.com",
+      "fun": "sdfed",
+      "password": "1234",
+      "date": "2023/2/2",
+      "id": 3
+    },
+    {
+      "name": "pandit ji",
+      "email": "p@gmail.com",
+      "fun": "dev",
+      "password": "12",
+      "date": "2023/2/2",
+      "id": 4
+    },
+    {
+      "name": "Raj",
+      "email": "ra@gmail.com",
+      "fun": "dev 2",
+      "password": "12",
+      "date": "2023/2/2",
+      "id": 5
+    }
+  ],
+  "login": []
+}
